@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Chat", "WCF_Chat\WCF_Chat.csproj", "{0F9C2349-6AA3-483E-AB19-1B6AC0303135}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{2B2F1784-AF14-4DFB-BBE9-48A1F9029F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceUser", "InterfaceUser\InterfaceUser.csproj", "{CE57434D-1DCD-4D43-A272-B2F239FF5DC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0F9C2349-6AA3-483E-AB19-1B6AC0303135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9C2349-6AA3-483E-AB19-1B6AC0303135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9C2349-6AA3-483E-AB19-1B6AC0303135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2F1784-AF14-4DFB-BBE9-48A1F9029F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2F1784-AF14-4DFB-BBE9-48A1F9029F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2F1784-AF14-4DFB-BBE9-48A1F9029F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2F1784-AF14-4DFB-BBE9-48A1F9029F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE57434D-1DCD-4D43-A272-B2F239FF5DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE57434D-1DCD-4D43-A272-B2F239FF5DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE57434D-1DCD-4D43-A272-B2F239FF5DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE57434D-1DCD-4D43-A272-B2F239FF5DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
